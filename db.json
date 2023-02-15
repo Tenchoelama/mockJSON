@@ -1,6 +1,7 @@
 
 {
-Quizes:  [
+  
+"Quiz" :  [
   {
     "id": 1,
     "question": "What was Gandalf also known as?",
