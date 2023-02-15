@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1,
+    "question": "What was Gandalf also known as?",
+    "answer": "Mithrandir",
+    "options": [
+      "Incánus",
+      "Mithrandir",
+      "Curumo",
+      "Tharkûn"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which birthday does Bilbo celebrate at the beginning of The Fellowship of the Ring?",
+    "answer": "His 111",
+    "options": [
+      "His 100",
+      "His 101",
+      "His 111",
+      "His 110"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How many wizards are there in Middle Earth?",
+    "answer": "Five",
+    "options": [
+      "Three",
+      "Four",
+      "Six",
+      "Five"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Who does Sam marry at the end of The Return of the King?",
+    "answer": "Mount Doom",
+    "options": [
+      "Pearly Bottom",
+      "Rossie Cotton",
+      "Daisy Puddle",
+      "Jilly Took"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is the name of the local pub in Hobbiton?",
+    "answer": "The Green Dragon",
+    "options": [
+      "The Black Boar",
+      "The Prancing Poney",
+      "The Burgundy Lion",
+      "The Green Dragon"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is Legolas's last name?",
+    "answer": "Greenleaf",
+    "options": [
+      "Evenstar",
+      "Greenleaf",
+      "Lightfoot",
+      "Celeborn"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "How many rings were given to the elves?",
+    "answer": "3",
+    "options": [
+      "9",
+      "3",
+      "4",
+      "1"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How many great rings were made in total?",
+    "answer": "20",
+    "options": [
+      "7",
+      "13",
+      "20",
+      "17"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "After King Theoden’s death at the Battle of Helm’s Deep, who takes over as the new ruler of Rohan?",
+    "answer": "Eowyn",
+    "options": [
+      "Helm HammerHand",
+      "Eomer",
+      "Eowyn",
+      "Grimbold"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "By what name were the Balrog also known?",
+    "answer": "Durin's Bane",
+    "options": [
+      "Flaming whips",
+      "Durin's Bane",
+      "Shadow monsters",
+      "Shadows of Zirakzigil"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Where does Frodo go at the end of the books?",
+    "answer": "The Undying Lands",
+    "options": [
+      "The Unifying Lands",
+      "The Plains of Tomorrow",
+      "The Mysterious Plains",
+      "The Undying Lands"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "What´s the elvish word for friend?",
+    "answer": "Mellon",
+    "options": [
+      "Timpatur",
+      "Papallon",
+      "Mangonn",
+      "Mellon"
+      ]
+  },
+  {
+    "id": 13,
+    "question": "What does Arwen mean in Elfish?",
+    "answer": "Noble Maiden",
+    "options": [
+      "Star",
+      "Morning Flower",
+      "Noble Maiden",
+      "Green Woods"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Where does the Fellowship of the Ring break up?",
+    "answer": "Amon Hen",
+    "options": [
+      "Lothlorein",
+      "Osgiliath",
+      "Amon Hen",
+      "Moria"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "The three Stone-Trolls of the Lone-lands were called what?",
+    "answer": "Tom, Bert, and William",
+    "options": [
+      "Oin, Gloin and Foin",
+      "Bach, Walt and Edward",
+      "Tony, Don and Peter",
+      "Tom, Bert, and William"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "In Mordor, what kind of food does Frodo say he can't remember the taste of?",
+    "answer": "Strawberries",
+    "options": [
+      "Cheese",
+      "Strawberries",
+      "Mushrooms",
+      "Bacon"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "How´s it called Aragorn's and sam´s horses?(in order)",
+    "answer": "Bill, brego",
+    "options": [
+      "Frada, shadowfax",
+      "Hasufel, Arod",
+      "Bill, brego",
+      "Asfaloth, Snowmane"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "What is Wormtongue’s real name?",
+    "answer": "Grima",
+    "options": [
+      "Lotho",
+      "Larma",
+      "Grima",
+      "Dourif"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Where does Frodo go at the end of the books?",
+    "answer": "The Undying Lands",
+    "options": [
+      "The Unifying Lands",
+      "The Plains of Tomorrow",
+      "The Mysterious Plains",
+      "The Undying Lands"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Which healing herb did Aragorn use to slow down the poison after Frodo was stabbed with a Morgul blade?,
+    "answer": "Athelas",
+    "options": [
+      "Olvar",
+      "Niphredil",
+      "Pipe-weed",
+      "Athelas"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "In 'Lord of the Rings', what was the name of Gandalf's sword?",
+    "answer": "Glamdring",
+    "options": [
+      "Wandlax",
+      "Eomer",
+      "Glamdring",
+      "Excalamir"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "what is the Elvish word for Ent?",
+    "answer": "Onod",
+    "options": [
+      "Onod",
+      "Inid",
+      "Anad",
+      "Ithil"
+    ]
+  },
+  {
+    "id": 23,
+    "question": " Which member of the thirteen Dwarves in 'The Hobbit' does Frodo meet in Rivendell?",
+    "answer": "Gloin",
+    "options": [
+      "Gloin",
+      "Thorin",
+      "Balin",
+      "Bofur"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "Who was the first king of Numenor?",
+    "answer": "Elros",
+    "options": [
+      "Elros",
+      "Isildur",
+      "Elendil",
+      "Glorfindel"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "When Aragorn was taken to Rivendell when he was a baby so to be hidden from Sauron as an heir to Isildur, what was the name he was given?",
+    "answer": "Estel",
+    "options": [
+      "Elendil",
+      "Aldarion",
+      "Minyatur",
+      "Estel"
+    ]
+  },
+  
+  ]
+
