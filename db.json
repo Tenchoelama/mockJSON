@@ -4,6 +4,7 @@
 "Quiz" :  [
   {
     "id": 1,
+    "category": "easy",
     "question": "What was Gandalf also known as?",
     "answer": "Mithrandir",
     "options": [
@@ -15,6 +16,7 @@
   },
   {
     "id": 2,
+    "category": "easy",
     "question": "Which birthday does Bilbo celebrate at the beginning of The Fellowship of the Ring?",
     "answer": "His 111",
     "options": [
@@ -26,6 +28,7 @@
   },
   {
     "id": 3,
+    "category": "easy",
     "question": "How many wizards are there in Middle Earth?",
     "answer": "Five",
     "options": [
@@ -37,6 +40,7 @@
   },
   {
     "id": 4,
+    "category": "easy",
     "question": "Who does Sam marry at the end of The Return of the King?",
     "answer": "Mount Doom",
     "options": [
@@ -48,6 +52,7 @@
   },
   {
     "id": 5,
+    "category": "easy",
     "question": "What is the name of the local pub in Hobbiton?",
     "answer": "The Green Dragon",
     "options": [
@@ -59,6 +64,7 @@
   },
   {
     "id": 6,
+    "category":"easy",
     "question": "What is Legolas's last name?",
     "answer": "Greenleaf",
     "options": [
@@ -70,6 +76,7 @@
   },
   {
     "id": 7,
+    "category":"easy",
     "question": "How many rings were given to the elves?",
     "answer": "3",
     "options": [
@@ -81,6 +88,7 @@
   },
   {
     "id": 8,
+    "category": "easy",
     "question": "How many great rings were made in total?",
     "answer": "20",
     "options": [
@@ -92,6 +100,7 @@
   },
   {
     "id": 9,
+    "category": "easy",
     "question": "After King Theoden’s death at the Battle of Helm’s Deep, who takes over as the new ruler of Rohan?",
     "answer": "Eowyn",
     "options": [
@@ -102,7 +111,8 @@
     ]
   },
   {
-    "id": 10,
+    "id": "easy",
+    "category": ",
     "question": "By what name were the Balrog also known?",
     "answer": "Durin's Bane",
     "options": [
@@ -114,6 +124,7 @@
   },
   {
     "id": 11,
+    "category": "easy",
     "question": "Where does Frodo go at the end of the books?",
     "answer": "The Undying Lands",
     "options": [
@@ -125,6 +136,7 @@
   },
   {
     "id": 12,
+    "category": "easy",
     "question": "What´s the elvish word for friend?",
     "answer": "Mellon",
     "options": [
@@ -136,6 +148,7 @@
   },
   {
     "id": 13,
+    "category": "medium",
     "question": "What does Arwen mean in Elfish?",
     "answer": "Noble Maiden",
     "options": [
@@ -147,6 +160,7 @@
   },
   {
     "id": 14,
+    "category": "medium",
     "question": "Where does the Fellowship of the Ring break up?",
     "answer": "Amon Hen",
     "options": [
@@ -158,6 +172,7 @@
   },
   {
     "id": 15,
+    "category":"medium",
     "question": "The three Stone-Trolls of the Lone-lands were called what?",
     "answer": "Tom, Bert, and William",
     "options": [
@@ -169,6 +184,7 @@
   },
   {
     "id": 16,
+    "category":"medium",
     "question": "In Mordor, what kind of food does Frodo say he can't remember the taste of?",
     "answer": "Strawberries",
     "options": [
@@ -180,6 +196,7 @@
   },
   {
     "id": 17,
+    "category": "medium",
     "question": "How´s it called Aragorn's and sam´s horses?(in order)",
     "answer": "Bill, brego",
     "options": [
@@ -191,6 +208,7 @@
   },
   {
     "id": 18,
+    "category": "medium",
     "question": "What is Wormtongue’s real name?",
     "answer": "Grima",
     "options": [
@@ -202,6 +220,7 @@
   },
   {
     "id": 19,
+    "category": "medium",
     "question": "What does R.R stand for in author J.R.R Tolkien's name?",
     "answer": "Ronald Reuel",
     "options": [
@@ -213,6 +232,7 @@
   },
   {
     "id": 20,
+    "category": "medium",
     "question": "Which healing herb did Aragorn use to slow down the poison after Frodo was stabbed with a Morgul blade?",
     "answer": "Athelas",
     "options": [
@@ -224,6 +244,7 @@
   },
   {
     "id": 21,
+    "category": "medium",
     "question": "In 'Lord of the Rings', what was the name of Gandalf's sword?",
     "answer": "Glamdring",
     "options": [
@@ -235,6 +256,7 @@
   },
   {
     "id": 22,
+    "category": "medium",
     "question": "what is the Elvish word for Ent?",
     "answer": "Onod",
     "options": [
@@ -246,6 +268,7 @@
   },
   {
     "id": 23,
+    "category": "medium",
     "question": " Which member of the thirteen Dwarves in 'The Hobbit' does Frodo meet in Rivendell?",
     "answer": "Gloin",
     "options": [
@@ -257,6 +280,7 @@
   },
   {
     "id": 24,
+    "category": "medium",
     "question": "Who was the first king of Numenor?",
     "answer": "Elros",
     "options": [
@@ -268,6 +292,7 @@
   },
   {
     "id": 25,
+    "category": "medium",
     "question": "When Aragorn was taken to Rivendell when he was a baby so to be hidden from Sauron as an heir to Isildur, what was the name he was given?",
     "answer": "Estel",
     "options": [
