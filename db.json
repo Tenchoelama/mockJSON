@@ -111,8 +111,8 @@
     ]
   },
   {
-    "id": "easy",
-    "category": ",
+    "id": 10,
+    "category": "easy",
     "question": "By what name were the Balrog also known?",
     "answer": "Durin's Bane",
     "options": [
