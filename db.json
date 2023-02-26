@@ -197,12 +197,12 @@
   {
     "id": 17,
     "category": "medium",
-    "question": "How´s it called Aragorn's and sam´s horses?(in order)",
-    "answer": "Bill, brego",
+    "question": "What are the names of Aragorn's and sam´s horses?(in order)",
+    "answer": "Brego, Bill",
     "options": [
       "Frada, shadowfax",
       "Hasufel, Arod",
-      "Bill, brego",
+      "Brego, Bill",
       "Asfaloth, Snowmane"
     ]
   },
@@ -224,10 +224,10 @@
     "question": "What does R.R stand for in author J.R.R Tolkien's name?",
     "answer": "Ronald Reuel",
     "options": [
-      "Ryan Rhoades",
+      "Ronald Reuel",
       "Richard Ryland",
       "Robert Remingron",
-      "Ronald Reuel"
+      "Ryan Rhoades"
     ]
   },
   {
