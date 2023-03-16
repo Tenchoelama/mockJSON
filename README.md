@@ -1,5 +1,5 @@
 # mockJSON
 
-### Created a FAKE REST API for my Capstone project and hosted it in my-json-server.com 
+### - Created a FAKE REST API for my Capstone project and hosted it in my-json-server.com 
 
-### the json file has a list of 25 dictionaries that holds questions, options, asnwers, category of the LOTR quiz as keys. 
+### - the Json file has a list of 25 dictionaries that holds questions, options, asnwers, category of the LOTR quiz as keys. 
